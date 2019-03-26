@@ -1,0 +1,4 @@
+﻿  joanPoon_finalProject.cpp
+d:\users\joanp\documents\joanpoon_finalproject\joanpoon_finalproject\joanpoon_finalproject.cpp(236): warning C4018: '<': signed/unsigned mismatch
+d:\users\joanp\documents\joanpoon_finalproject\joanpoon_finalproject\joanpoon_finalproject.cpp(259): warning C4715: 'findIndexInFiles': not all control paths return a value
+  joanPoon_finalProject.vcxproj -> D:\Users\joanp\Documents\joanPoon_finalProject\Debug\joanPoon_finalProject.exe
